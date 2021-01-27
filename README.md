@@ -1,6 +1,7 @@
-Profile website for
+Profile website for:
 # Zachery Converse
 - Software Engineer
+- zacheryconverse@gmail.com
 
 
 Credits:
