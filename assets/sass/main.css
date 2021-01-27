@@ -2657,7 +2657,7 @@ input[type="button"]:disabled,
   white-space: nowrap;
   width: 10em;
   z-index: 1;
-  background: radial-gradient(circle 28px, rgba(75, 75, 75, 0.116), #9198e500);
+  background: radial-gradient(circle 28px, rgba(31, 31, 31, 0.116), #26294463);
 }
 
 .goto-next:before {
