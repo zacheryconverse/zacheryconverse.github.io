@@ -855,6 +855,7 @@ input[type="radio"] {
   @include icon;
   border-bottom: none;
   position: relative;
+  line-height: 0;
 
   > .label {
     display: none;
@@ -886,7 +887,7 @@ input[type="radio"] {
     cursor: default;
     display: inline-block;
     height: 6em;
-    line-height: 5.65em;
+    line-height: 7.65em;
     margin: 0 0 _size(element-margin) 0;
     text-align: center;
     width: 6em;
