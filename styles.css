@@ -241,36 +241,6 @@ body.nav-open .header { background: var(--paper); }
 }
 .wide { aspect-ratio: 16 / 9; object-fit: cover; width: 100%; }
 
-.note {
-  max-width: 42rem;
-  margin: 1.5rem 0 0;
-  padding: 2rem 1.5rem;
-  border-radius: 1.25rem;
-  background: var(--ridge);
-  color: var(--ridge-fg);
-}
-@media (min-width: 640px) {
-  .note { padding: 2.5rem 2.5rem; }
-}
-.note p { color: var(--ridge-muted); margin: 0 0 1rem; }
-.note ul { margin: 0 0 1rem; padding-left: 1.25rem; color: var(--ridge-muted); }
-.note li { margin: 0.2rem 0; }
-.note .closer { color: var(--ridge-fg); }
-.note footer { margin-top: 1.5rem; }
-.note .who {
-  font-family: var(--display);
-  font-size: 1.2rem;
-  letter-spacing: -0.02em;
-  color: var(--ridge-fg);
-  margin: 0;
-}
-.note .role {
-  font-family: var(--mono);
-  font-size: 0.75rem;
-  color: var(--ridge-muted);
-  margin: 0.3rem 0 0;
-}
-
 .footer {
   border-top: 1px solid var(--line);
   padding: 4rem 0;
