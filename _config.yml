@@ -1,0 +1,4 @@
+# Static site. Do not run the Jekyll theme pipeline.
+plugins: []
+exclude:
+  - README.md
