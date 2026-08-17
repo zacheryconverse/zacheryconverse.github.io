@@ -165,7 +165,8 @@ body.nav-open .header { background: var(--paper); }
 .prose p { color: var(--muted); margin: 0 0 1rem; }
 
 .media { margin-top: 3rem; }
-.media figcaption {
+.media figcaption,
+.two figcaption {
   font-family: var(--mono);
   font-size: 0.75rem;
   color: var(--subtle);
