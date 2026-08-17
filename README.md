@@ -1,15 +1,5 @@
-Profile website for:
-# Zachery Converse
-- Software Engineer
-- zacheryconverse@gmail.com
+# zacheryconverse.github.io
 
+Personal site for [Zachery Converse](https://zacheryconverse.github.io/).
 
-Credits:
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+I build [Vol](https://vol.flights).
