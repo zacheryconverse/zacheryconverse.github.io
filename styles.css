@@ -71,7 +71,6 @@ button { font: inherit; cursor: pointer; background: none; border: 0; color: inh
   display: flex;
   align-items: center;
   justify-content: space-between;
-  width: 100%;
 }
 .logo {
   font-family: var(--display);
